@@ -1740,7 +1740,7 @@ Preloader CSS
 @media (max-width: 767px) {
   /* line 65, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
   .slider_area .single_slider .slider_text h3 {
-    font-size: 30px;
+    font-size: 40px;
     line-height: 1.2;
     margin: 20px 0;
   }
